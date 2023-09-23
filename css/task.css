@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;}
+    header{
+        
+        justify-content: center;
+        text-align: center;
+    }
+    header .paragrap{ 
+        color: #5F6980;
+        
+    }
+    main .imiges-1{
+        display: flex;
+        justify-content: center;
+        margin-top: 48px;
+    }
+        
+    main .martin{
+        margin: 0 32px;
+    }
+    h5{
+        margin-top: 16px;
+    }
+    main .margin
+    {
+        margin-top: 4px;
+        display: inline-block;
+        color: #3E3E59;
+        
+    }
+    main .paragrap{
+        margin-top: 8px;
+        color: #5F6980;
+
+    }
+    main .fb{
+        margin-top: 24px;
+        align-items: center;
+        display: flex;
+    }
+    main .instagram{
+        margin: 0 16px;
+        f
+    }
+    /* footer */
+button{
+    background-color: #054A68;
+     color: #ffffff;
+     height: 45px;
+     width: 80px;
+    
+}
+footer{
+    background-color: #53535354;
+    height: 512px;
+    margin-top: 48px;
+    justify-content: center;
+    
+}
+footer .imfo-1 {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1650px;
+    
+    
+   
+}
+/* footer .imfo-2{
+    display: flex;
+    justify-content: center;
+} */
+footer .languaeg{
+    margin: 0 147px;
+    
+}
+footer .botom{ 
+    margin-top: 32px;
+}
+footer .foot{ 
+    margin-top: 156px;
+}
+footer .footer{ 
+    display: flex;
+    align-items: center;
+    margin-top: 28px;
+}
+footer .header{ 
+    margin-top: 156px;
+}
+footer .list-2{
+    margin-top: 71px;
+    color:#535353;
+    display: block;
+    
+}
+footer .about{
+    margin-top: 15px;
+    
+}
+.services{
+    margin-top: 156px;
+}
+.asset{
+    margin-top: 55px;
+}
+footer .down{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+}
+footer .english{
+     margin-top: 58px;
+}
+    
+footer .aww{
+    margin-top:156px ;
+}
+footer .instagram{
+    margin: 0 16px;
+}
+a{
+    color:#535353;
+    
+}
+    
+
+    
+        
+    
+
+
